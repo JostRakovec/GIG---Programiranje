@@ -6,4 +6,6 @@ Predmet: Programiranje
 
 Izdelava Programa za pretvarjanje koordinat
 
-Program je izdelan v programskem jeziku Python in narejene so fukncije za uporabo v MatLabu
+Program je izdelan v programskem jeziku Python in narejene so fukncije za uporabo v MatLabu.
+
+Za pravilno delovanje MatLabovih fukncij, si v direktorij skopirajte tudi funkciji deg2dms in dms2deg.
