@@ -10,4 +10,4 @@ Program je izdelan v programskem jeziku Python in narejene so fukncije za uporab
 
 Za pravilno delovanje MatLabovih fukncij, si v direktorij skopirajte tudi funkciji deg2dms in dms2deg.
 
-Spletna stran, kjer so nekoliko bolj opisani programi: https://github.com/JostRakovec/GIG---Programiranje
+Spletna stran, kjer so nekoliko bolj opisani programi: http://jostrakovec.wixsite.com/jost-1
